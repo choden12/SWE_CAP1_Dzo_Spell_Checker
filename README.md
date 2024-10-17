@@ -64,4 +64,4 @@ detect these words and handling Dzongkha characters and Punctuation was tricky, 
 removed certain symbols (like ":") from the dictionary before matching with text files.
 
 # Future Improvement
-Instead of using a basic sliding window, consider an algorithm that analyzes the compound word.
+Enhance the sliding window technique to better address challenges with handling complex compound words.
