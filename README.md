@@ -18,7 +18,7 @@ improving written content quality.
 
 ## Usage
 
-python3
+python
 
 The command to excutive the scripts ( dzongkha_spell_checker. py input.docx)
 
